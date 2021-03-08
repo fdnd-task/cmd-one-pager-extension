@@ -1,5 +1,5 @@
 ---
-title: "dextension"
+title: "extension"
 client: "CMD"
 description: "short description"    # Max. 280 characters in description
 semester: 1
